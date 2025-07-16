@@ -40,10 +40,6 @@ This project helps manage patient records, doctors, appointments.
 - Pari Rastogi
 - [GitHub Profile](https://github.com/PariRastogi18)
 
-  ## 🔗 Live Demo
-
-[Add your deployed link here, e.g., GitHub Pages link]
-
 ## 📄 License
 
 This project is for educational purposes only.
